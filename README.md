@@ -1,4 +1,4 @@
-# CS577-StanceDetection
+# StanceDetection
 
 Underlying stance detection model handler adapted from [VAST](https://github.com/emilyallaway/zero-shot-stance).
 
